@@ -1,3 +1,4 @@
+*.ipynb_checkpoints
 Ch02-statlearn-lab.ipynb
 Ch03-linreg-lab.ipynb
 Ch04-classification-lab.ipynb
